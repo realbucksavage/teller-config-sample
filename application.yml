@@ -1,0 +1,4 @@
+greeting: Hello
+
+greeter:
+  format: '{{ greeting }}, {{ input }}'
